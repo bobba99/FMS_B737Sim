@@ -38,4 +38,4 @@ instrumentene på andre skjermer.
   
 #### EFB: 2x iPAD
 * For å kjøre Zibo EFB
-* For å kjøre Navigraph Charts
+* For å kjøre Navigraph Charts og Simbrief
